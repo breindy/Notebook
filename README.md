@@ -40,14 +40,14 @@ This is collection of entries that I will slowly add to save and give myself a b
 	* **Database Operation**
 	* **user auth** - application logic
 	
-######Databases/Web Storage
-	* Relational Data (SQL - understand benefits)
-	* NOSql databases (Mongo)
-	* Connect databases with chosen back-end language (Node + Mongo)
-	* Understand benefits in-memory data stores
+##### Databases/Web Storage
+	Relational Data (SQL - understand benefits)
+	NOSql databases (Mongo)
+	Connect databases with chosen back-end language (Node + Mongo)
+	Understand benefits in-memory data stores
 
-######Redis or memcached**
-	* Web storage
+##### Redis or memcached
+	Web storage
 
 - Mean
 	* **M**ongoDB
