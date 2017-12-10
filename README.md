@@ -14,7 +14,7 @@ This is collection of entries that I will slowly add to save and give myself a b
 6. Docker, Jenkins
 7. Discrete Math
 
-###### Coming Soon
+### Coming Soon
 ![alt text](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/27170038/Software-stack-reworked.png "Software Stack")
 
 - Front End
