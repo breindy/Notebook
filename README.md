@@ -112,5 +112,11 @@ This is collection of entries that I will slowly add to save and give myself a b
 - Recursion
 - Algorithm Complexity
 
+###### Technologies and stuffs
+- Redux
+- React
+- React Native
+
+
 
 	
