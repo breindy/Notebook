@@ -116,6 +116,34 @@ This is collection of entries that I will slowly add to save and give myself a b
 - Redux
 - React
 - React Native
+- Linux, different types (Linuxjourney.com)
+- Ping, hacking, ip address and etc.
+
+###### Web Security
+- Basic PHP usage/MySQL usage
+- Security Introduction
+- Fundamental Security Principles
+- Connecting to a Database (Dynamic Content with PHP and MySQL)
+- Social Engineering
+	- Attack: URL Manipulation
+	- Attack: Social Engineering
+	- Semantic Versioning
+	- Common Vulnerabilities and Exposures
+	- Assignments: Using PHP with relational database tables
+- Securing Input and Output
+- Input/Output Attacks
+- Footprinting and Forgery
+- Session Hijacking and Fixation
+- Encryption and User Authentication
+- User Authentication Attacks
+- The Secure Web
+- Securing Servers
+- Assessment and Monitoring
+
+
+###### Topics in Web Development/Design
+
+###### Topics in Software Engineering
 
 
 
