@@ -142,9 +142,24 @@ This is collection of entries that I will slowly add to save and give myself a b
 
 
 ###### Topics in Web Development/Design
+- HTML and CSS
+- create dynamic pages using Javascript and the DOM (Document Object Model)
+- write web applications that use server side data stores such as databases
+- use design elements such as color, font, and images to promote usability
+- write and test a web application and its components through unit and system tests
 
 ###### Topics in Software Engineering
-
+- knowledge of Agile software development
+- Automated Testing Techniques
+- Continuous Integration and Continuous Deployment Techniques
+- Collaborative Planning and Estimating
+- Collaborative Implementation Techniques
+- Agile Software Architecture Techniques
+- Working effectively on an Agile team
+- Design and Build large systems in iterative increments
+- business responsibilities of the software engineer
+- empirical software engineering practices
+- industrial software engineering practices
 
 
 	
