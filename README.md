@@ -14,16 +14,16 @@ This is collection of entries that I will slowly add to save and give myself a b
 6. Docker, Jenkins
 7. Discrete Math
 
-###Web Development in 2018 Guide
+### Web Development in 2018 Guide
 ****
-#####Deployment Tools
+##### Deployment Tools
 - FTP Client
 - SSH Tools: used to interat with your server
 
-#####Cloud Storage
+##### Cloud Storage
 - Google Drive, Dropbox to have access to your server code at any moment in time, which is also a really convenient to have.
 
-#####Technologies
+##### Technologies
 **(Remember it is important to learn the in's and out's of a language before jumping into a framework)**
 
 * HTML/CSS
@@ -51,7 +51,7 @@ At this point, you will be able to be a web designer, or basic front end develop
 -  Add some dynamic UI with JavaScript
 -  Can choose to be a freelancer or a very entry level position
 
-#####Next Steps
+##### Next Steps
 1. Look at UI Frameworks (HTML, CSS frameworks)
 	- Twitter Bootstrap 4: the most general framework and most popular
 	- Materialize CSS: primarily a great UI/UX framework
@@ -59,14 +59,14 @@ At this point, you will be able to be a web designer, or basic front end develop
 	- Zurb Foundation: is an alternative to Bootstrap
 	- Skeleton CSS is more of a boilerplate: a VERY light boilerplate: good for prototyping; when you're just building out the functionality.
 	
-#####Front-End JavaScript Frameworks [Choose One]
+##### Front-End JavaScript Frameworks [Choose One]
 1. **React** - (technically a library) is the most popular framework right now for startups, it is super fast and super light, uses a state manager called Redux, uses JSX to render HTML instead of using templates.
 2. **Angular** - is popular in bigger enterprises, and is usually more full featured and bloated, and includes a lot more in the core framework, uses state manager called NgRx similar to Redux.
 3. **Vue.js** -  is the most straightforward framework to learn, syntax is clear, uses a state manager called Vuex
 4. **Aurelia** - is super light, feels a lot similar vanilla JavaScript (writing classes is like writing regular JS), have the option to use ESNext (the latest features of ECMAScript or TypeScript)
 5. **Ember** - is a much steeper learning curve framework, but full-featured
 
-#####Side Technologies To Learn
+##### Side Technologies To Learn
 - GIT (Version Control)
 - Basic Command Line (Folder naviagtion, file creation, etc, npm package manager)
 - APIS / REST (Learn how REST APIs work)
@@ -80,14 +80,14 @@ At this point, you will be able to be a web designer, or basic front end develop
 	- Webpack is a module loader that allows you to use NPM modules on the client side, also presets to integrate Babel which is a JS compiler.
 	- Babel is used to take newer features of JS from newer standards such as ES6 and ES7 and compile them down to older versions like ES5.
 	
-#####Server-Side Technologies [Choose One]
+##### Server-Side Technologies [Choose One]
 1. **Node.js** - it is a runtime technology that uses JavaScript on the server; it is popular, fast, scalable, powerful, asynchronous, runs on a server instead of a browser environment, you get NPM, and can install endless packages to avhiceve endless kind of functionality you want
 2. **Python** - very popular and is used for rapid development, and you can create things very quickly, which also includes great integration with just about everything.
 3. **PHP** - practical, and easy to deploy to shared hosting accounts: Wordpress & Laravel.
 4. **Ruby** - ruby on rails is an MVC framework that provides rapid development, with a strong community, but fell off a little bit in recent years.
 5. ** C# & ASP.NET**
 
-#####Databases [Choose One]
+##### Databases [Choose One]
 1. **Mongo.DB** is an incredible NOSQL Database which is Schema-less as far as the data layer goes; very scalable, very quick, it is non-relational, suggested for Node.js; pairs perfectly with Node.js.
 2. **MySQL** is a traditional relational database that uses tables and rows; it is popular and can be used with virtually any language. Good with Python, PHP, Ruby on Rails or even Node.js.
 3. **PostgreSQL** is a bit harder than MySQL  but also similar but very powerful; more feature full
@@ -95,7 +95,7 @@ At this point, you will be able to be a web designer, or basic front end develop
 5. **Oracle** is heavily used in enterprise world; relational database
 6. **Firebase** is a real-time cloud database maintained by Google; can also be used as a hosting platform (angular or React)
 
-#####Server-Side Frameworks [Choose One]
+##### Server-Side Frameworks [Choose One]
 1. JavaScript - **Express** is the most popular, Hapi.js, Adonis a hardcore MVC Framework, Loopback, Swagger (last two are newer frameworks built for creating REST APIs and back-end services for full stack applications)
 2. Python - **Django** high level framework that does a lot for you and Flask is low level is free to do whatever you want, Web2py, Pylons
 3. PHP - PHP, Symfony, CodeIgniter is an easy to use MVC framework, Yii2.
